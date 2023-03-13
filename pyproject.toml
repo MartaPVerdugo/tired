@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tired_MVERDUGO89"
-version = "0.0.1"
+version = "0.0.2"
 description = "A very tired package."
 authors = ["marta verdugo <martapverdugo@gmail.com>"]
 readme = "README.md"
